@@ -1,1 +1,1 @@
-# mentoring-assignments
+# mentoring_assignments

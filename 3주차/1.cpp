@@ -2,13 +2,14 @@
 
 int main()
 {
+	
 	int array[5] = { 0 };
 	int total = 0;
 	for (int i = 0; i < 5; i++)
 	{
-		std::cout << i+1 << "¹øÂ° Á¤¼ö ÀÔ·Â:";
+		std::cout << i+1 << "ë²ˆì¨° ì •ìˆ˜ ì…ë ¥:";
 		std::cin >> array[i];
 		total += array[i];
 	}
-	std::cout << "ÇÕ°è:" << total << std::endl;
+	std::cout << "í•©ê³„:" << total << std::endl;
 }

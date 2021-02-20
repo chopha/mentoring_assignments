@@ -35,7 +35,7 @@ void caculator::division(float x, float y)
 }
 void caculator::total_count()
 {
-	std::cout << "µ¡¼À:" << a_count << " »¬¼À:" << s_count << " °ö¼À:" << m_count << " ³ª´°¼À:" << d_count << std::endl;
+	std::cout << "ë§ì…ˆ:" << a_count << " ëº„ì…ˆ:" << s_count << " ê³±ì…ˆ:" << m_count << " ë‚˜ëˆ—ì…ˆ:" << d_count << std::endl;
 }
 int main()
 {

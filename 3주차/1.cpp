@@ -7,9 +7,9 @@ int main()
 	int total = 0;
 	for (int i = 0; i < 5; i++)
 	{
-		std::cout << i+1 << " 번째 정수 입력:";
+		std::cout << i+1 << " 번째 정수 입력: ";
 		std::cin >> array[i];
 		total += array[i];
 	}
-	std::cout << "합계:" << total << std::endl;
+	std::cout << "합계: " << total << std::endl;
 }
